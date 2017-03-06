@@ -1,0 +1,311 @@
+[33mcommit 46a2d14e51e5955d8772c4cc069ad879e64ae22c[m
+Author: avantipov <avantipov@mgkit.ru>
+Date:   Fri Jan 6 11:21:36 2017 +0300
+
+    06-01
+
+[33mcommit 94449f610f08320bcf17bdc5ef154a2f33b89945[m
+Author: avantipov <avantipov@mgkit.ru>
+Date:   Fri Jan 6 02:34:20 2017 +0300
+
+    Revert "Перезалив"
+    
+    This reverts commit 1edfd4869e19dfe00e793e465c32325ff338e42f.
+
+[33mcommit 1edfd4869e19dfe00e793e465c32325ff338e42f[m
+Author: avantipov <avantipov@mgkit.ru>
+Date:   Fri Jan 6 02:03:37 2017 +0300
+
+    Перезалив
+    
+    Обход ограничения ГИТ на 100 МБ
+
+[33mcommit f809aa6bcefbd27684bbf31e5c45745c124aa670[m
+Author: avantipov <avantipov@mgkit.ru>
+Date:   Fri Jan 6 01:28:25 2017 +0300
+
+    Revert "Исправление ошибок по журналу проблем"
+    
+    This reverts commit 638b0979a18f2bb89dc36eb0d93f18750b3094f9.
+
+[33mcommit 638b0979a18f2bb89dc36eb0d93f18750b3094f9[m
+Author: InfoCollege <avantipov@mgkit.ru>
+Date:   Fri Jan 6 00:41:20 2017 +0300
+
+    Исправление ошибок по журналу проблем
+    
+    -
+
+[33mcommit 7ca83ce0e232fb5d8ed237a9222ce368448f491e[m
+Author: InfoCollege <avantipov@mgkit.ru>
+Date:   Thu Jan 5 23:36:42 2017 +0300
+
+    Редизайн
+    
+    Заменен дизайн, заменен шрифт
+
+[33mcommit 9d145db7b6cad95e9d70e7a7feb5e8f89327dd43[m
+Author: InfoCollege <avantipov@mgkit.ru>
+Date:   Wed Jan 4 12:49:49 2017 +0300
+
+    04/01/2017
+    
+    Доработка модуля №14
+
+[33mcommit e84ca1308f5fa1cc142a885a3a938f94b7984e2a[m
+Author: InfoCollege <avantipov@mgkit.ru>
+Date:   Sat Dec 24 22:49:30 2016 +0300
+
+    Консультация по КП
+    
+    Небольшие изменения в тексте курсовой
+
+[33mcommit 2b80029d0049d5eaac755891655ad60768b90b3e[m
+Author: InfoCollege <avantipov@mgkit.ru>
+Date:   Thu Dec 22 20:59:28 2016 +0300
+
+    22.12.16(2)
+    
+    Текст курсовой обновлен
+
+[33mcommit 3d25d83d8291b82b6f5de77d275be9c24bdcf24d[m
+Author: InfoCollege <avantipov@mgkit.ru>
+Date:   Thu Dec 22 20:39:46 2016 +0300
+
+    Редактирование базы данных
+
+[33mcommit c6ea4190a043ec8a9fa855f03bbee09f44209676[m
+Author: InfoCollege <avantipov@mgkit.ru>
+Date:   Thu Dec 22 20:32:14 2016 +0300
+
+    22.12.2016
+    
+    Релиз версии 0.9
+
+[33mcommit 7f8d15d9745aa274f4e36d73db3b5446ac6bf6e0[m
+Author: InfoCollege <avantipov@mgkit.ru>
+Date:   Thu Dec 22 18:13:03 2016 +0300
+
+    22.12.2016
+    
+    1
+
+[33mcommit 5eec18778b136e9e780978fe3574f8fd6c8bfced[m
+Author: InfoCollege <avantipov@mgkit.ru>
+Date:   Wed Dec 21 17:06:47 2016 +0300
+
+    21/12/16
+    
+    Текст курсовой написан на 95%
+
+[33mcommit 9ac76077194ea61caa8c78f67f177c4b99996534[m
+Author: InfoCollege <avantipov@mgkit.ru>
+Date:   Fri Dec 16 23:37:12 2016 +0300
+
+    16.12.2016
+    
+    Очередные доработки
+
+[33mcommit 814e5594affd7a47af567fe7fa633536e32e64fc[m
+Author: InfoCollege <avantipov@mgkit.ru>
+Date:   Fri Dec 16 00:13:00 2016 +0300
+
+    16.12.2016
+    
+    Произведена стандартизация и унификация переменных в части модулей.
+    Дополнен текст курсовой.
+    Доработаны схемы IDEF0.
+
+[33mcommit d236b16dc02a27be1ac98aa33c81b6927efde960[m
+Author: Artem Antipov <avantipov@mgkit.ru>
+Date:   Fri Dec 2 20:51:52 2016 +0300
+
+    02.12.2016
+    
+    Доработана подсистема "Учебная часть" - начало работы над модулем
+    "Журнал поручений".
+    Небольшие корректировки в БД.
+
+[33mcommit a69552032041135da1b418149fe547a74f240d8f[m
+Author: Artem Antipov <avantipov@mgkit.ru>
+Date:   Wed Nov 30 00:26:59 2016 +0300
+
+    30.11.2016
+    
+    Доработан выходной документ "Приказ об утверждении нагрузки", мелкие
+    доработки.
+
+[33mcommit b0d0fe0dba7b15eb76a165bac42b77e2dd7424cc[m
+Author: Artem Antipov <avantipov@mgkit.ru>
+Date:   Sat Nov 26 23:26:45 2016 +0300
+
+    26.11.2016
+    
+    Доработал вставку таблиц в документ - пока криво.
+    Пример в документе 1223.docx
+
+[33mcommit eb76b1704ab9af2a87e1087cbeaf06957c507f71[m
+Author: Artem Antipov <avantipov@mgkit.ru>
+Date:   Fri Nov 25 22:00:07 2016 +0300
+
+    25.11.2016
+    
+    Небольшие доработки в программе. Дописан текст КП до практической
+    реализации ПП
+
+[33mcommit 7afca619b2c21d7b53f1328afcb0081f9015de41[m
+Author: Artem Antipov <avantipov@mgkit.ru>
+Date:   Thu Nov 24 21:50:17 2016 +0300
+
+    24.11.2016(3)
+    
+    Начало работы над модулем "Учебная часть"
+
+[33mcommit b35a1341dc31eda7aeab28b6437651cfa280d169[m
+Author: Artem Antipov <avantipov@mgkit.ru>
+Date:   Thu Nov 24 17:29:55 2016 +0300
+
+    24.11.2016 (2)
+    
+    Работоспособен модуль "Отделения" - небольшие изменения и оптимизация
+    работы программы
+
+[33mcommit 95700d9c863ebb1a8af7f1d824d4bd0a855ce3c8[m
+Author: Artem Antipov <avantipov@mgkit.ru>
+Date:   Thu Nov 24 12:59:07 2016 +0300
+
+    24.11.2016
+    
+    Добавлена обязательная проверка заполненности полей в модуль
+    "Регистрация дипломов", так же дописан текст курсового (исправлены
+    замечания), и мелкие исправления.
+
+[33mcommit 1026068ec25a340164a2bbb7d48f2dcfa1182c81[m
+Author: Artem Antipov <avantipov@mgkit.ru>
+Date:   Wed Nov 23 18:03:05 2016 +0300
+
+    23.11.2016 (2)
+    
+    Переделан один SQL запрос (добавлен параметр) и небольшие изменение в
+    схеме процесса (IDEF0)
+
+[33mcommit aceb3bd3091db9370ccdcdbb4f9ac5a5c28d5e05[m
+Author: Artem Antipov <avantipov@mgkit.ru>
+Date:   Wed Nov 23 09:46:20 2016 +0300
+
+    23.11.2016
+    
+    Диграммы IDEF0
+
+[33mcommit 6e777a8bb5574a06ab088b636107a4875374588b[m
+Author: Artem Antipov <avantipov@mgkit.ru>
+Date:   Sat Nov 19 00:26:18 2016 +0300
+
+    19.11.2016
+    
+    Мелкие изменения в тексте КП
+
+[33mcommit 26e7c8c5ed5c8595425e38edc371c7bce13d42f2[m
+Author: Artem Antipov <avantipov@mgkit.ru>
+Date:   Fri Nov 18 23:41:31 2016 +0300
+
+    18.11.2016 - 3
+    
+    Добавлен логотип.
+
+[33mcommit 2096c794d63119f689fc545ac59d2a108ea3bf0f[m
+Author: Artem Antipov <avantipov@mgkit.ru>
+Date:   Fri Nov 18 23:33:21 2016 +0300
+
+    18.11.2016 - 2
+    
+    Обновление технической документации по проекту.
+    Добавлено ТЗ по стандарту ГОСТ 34.602
+
+[33mcommit f7907f6602ad5e2714aeb2b9cbe00bb2883a9add[m
+Author: Artem Antipov <avantipov@mgkit.ru>
+Date:   Fri Nov 18 00:08:23 2016 +0300
+
+    18.11.2016
+    
+    Добавлен файл с текстом КП
+
+[33mcommit bef2e97e5f878dfb7226e17c0163ed49c75a9eb1[m
+Author: Artem Antipov <avantipov@mgkit.ru>
+Date:   Thu Nov 17 21:24:24 2016 +0300
+
+    17.11.2016(4)
+    
+    Доработана функция "Формирование рейтинга" для подсистемы "Приемная
+    комиссия"
+
+[33mcommit cc15f51c4907bcd3140ae261e956b5bf56b27742[m
+Author: Artem Antipov <avantipov@mgkit.ru>
+Date:   Thu Nov 17 19:05:00 2016 +0300
+
+    17.11.2016(3)
+    
+    Доработанная функция "Регистрация абитуриента" с печатью выходного
+    док-та "Личная карточка абитуриента"
+
+[33mcommit 4d97ea01d58cdc8b93c7f3e0906c816639868f21[m
+Author: Artem Antipov <avantipov@mgkit.ru>
+Date:   Thu Nov 17 17:41:47 2016 +0300
+
+    17.11.2016
+    
+    Работоспособная функция "Регистрация абитуриента"
+
+[33mcommit edca470afb795bfd6d7a00f1414b4d2d3606fd38[m
+Author: Artem Antipov <avantipov@mgkit.ru>
+Date:   Thu Nov 17 14:57:36 2016 +0300
+
+    17.11.2016(2)
+    
+    Начало разработки модуля "Регистрация абитуриентов" в подсистеме "ПК"
+
+[33mcommit 3553305d8ed7bf54a3be404a4fa4c6849e3d288d[m
+Author: Artem Antipov <avantipov@mgkit.ru>
+Date:   Thu Nov 17 14:02:14 2016 +0300
+
+    17.11.2016
+    
+    Работоспособная часть "Регистрация дипломов"
+
+[33mcommit f99b9b81022fb9138828fc22e76e5903f7428d7d[m
+Author: InfoCollege <avantipov@mgkit.ru>
+Date:   Tue Nov 15 06:55:29 2016 -0800
+
+    15.11.2016
+    
+    Обновление БД
+
+[33mcommit ac1725174209140af929021b0038abb02b81ebde[m
+Author: InfoCollege <avantipov@mgkit.ru>
+Date:   Sun Nov 13 13:55:59 2016 -0800
+
+    13.11.2016
+    
+    Модуль "Регистрация дипломов" -подключен и активен
+
+[33mcommit 065117e08d149676cbca63d0a1c614f27820b4e7[m
+Author: InfoCollege <avantipov@mgkit.ru>
+Date:   Sun Nov 13 09:01:53 2016 -0800
+
+    13.11.2016
+    
+    Начало разработки формы "Регистрация приказов " в модуле "Управление колледжем"
+
+[33mcommit 8f20fe99487d7756723fd4d9a93d6e580333ca3a[m
+Author: InfoCollege <avantipov@mgkit.ru>
+Date:   Sat Nov 12 10:28:28 2016 -0800
+
+    Начало разработки (12.11.2016)
+    
+    Начало разработки
+
+[33mcommit 920819bf1ff51803e53f38fdecd4865fb840a891[m
+Author: InfoCollege <avantipov@mgkit.ru>
+Date:   Sat Nov 12 09:36:54 2016 -0800
+
+    Initial commit
